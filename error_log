@@ -1,0 +1,80 @@
+[06-Oct-2017 04:12:50 America/New_York] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/husskofk/public_html/findline/index.php on line 9
+[06-Oct-2017 04:45:30 America/New_York] PHP Fatal error:  Method PHPHtmlParser\Dom\Collection::__toString() must not throw an exception in /home/husskofk/public_html/findline/index.php on line 0
+[06-Oct-2017 04:45:53 America/New_York] PHP Fatal error:  Method PHPHtmlParser\Dom\Collection::__toString() must not throw an exception in /home/husskofk/public_html/findline/index.php on line 0
+[06-Oct-2017 04:46:28 America/New_York] PHP Fatal error:  Method PHPHtmlParser\Dom\Collection::__toString() must not throw an exception in /home/husskofk/public_html/findline/index.php on line 0
+[06-Oct-2017 05:09:54 America/New_York] PHP Parse error:  syntax error, unexpected '$scripts' (T_VARIABLE) in /home/husskofk/public_html/findline/index.php on line 11
+[06-Oct-2017 05:10:17 America/New_York] PHP Fatal error:  Class 'Dom' not found in /home/husskofk/public_html/findline/index.php on line 8
+[06-Oct-2017 05:13:46 America/New_York] PHP Notice:  Undefined variable: html in /home/husskofk/public_html/findline/index.php on line 17
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-57x57.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-60x60.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-72x72.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-76x76.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-114x114.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-120x120.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-144x144.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-152x152.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/apple-icon-180x180.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/android-icon-192x192.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/favicon-32x32.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/favicon-96x96.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/favicon-16x16.png): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(/manifest.json): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/bootstrap.min.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/font-awesome.min.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/line-icons.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/owl.carousel.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/owl.theme.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/nivo-lightbox.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/magnific-popup.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/animate.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/menu_sideslide.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/main.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:41:42 America/New_York] PHP Warning:  exif_imagetype(css/responsive.css): failed to open stream: No such file or directory in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:54:46 America/New_York] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/husskofk/public_html/findline/index.php on line 35
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 05:55:07 America/New_York] PHP Notice:  Undefined variable: filename in /home/husskofk/public_html/findline/index.php on line 31
+[06-Oct-2017 06:01:15 America/New_York] PHP Parse error:  syntax error, unexpected '$dom' (T_VARIABLE) in /home/husskofk/public_html/findline/index.php on line 19
+[06-Oct-2017 15:27:40 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/husskofk/public_html/findline/functions.php on line 4
+[06-Oct-2017 15:29:40 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/husskofk/public_html/findline/functions.php on line 7
+[06-Oct-2017 15:30:45 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/husskofk/public_html/findline/functions.php on line 7
+[06-Oct-2017 15:31:30 America/New_York] PHP Parse error:  syntax error, unexpected ',' in /home/husskofk/public_html/findline/functions.php on line 17
+[06-Oct-2017 15:32:40 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/husskofk/public_html/findline/functions.php on line 4
+[06-Oct-2017 15:32:48 America/New_York] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/husskofk/public_html/findline/functions.php on line 4
+[06-Oct-2017 15:40:53 America/New_York] PHP Fatal error:  Uncaught exception 'PHPHtmlParser\Exceptions\CurlException' with message 'Error retrieving "http://filgoal.c.om" (Could not resolve: filgoal.c.om (Domain name not found))' in /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Curl.php:36
+Stack trace:
+#0 /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Dom.php(162): PHPHtmlParser\Curl->get('http://filgoal....')
+#1 /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Dom.php(129): PHPHtmlParser\Dom->loadFromUrl('http://filgoal....', Array)
+#2 /home/husskofk/public_html/findline/functions.php(19): PHPHtmlParser\Dom->load('http://filgoal....')
+#3 {main}
+  thrown in /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Curl.php on line 36
+[06-Oct-2017 15:47:53 America/New_York] PHP Fatal error:  Uncaught exception 'PHPHtmlParser\Exceptions\CurlException' with message 'Error retrieving "http://filgsoal.com" (Could not resolve: filgsoal.com (Domain name not found))' in /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Curl.php:36
+Stack trace:
+#0 /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Dom.php(162): PHPHtmlParser\Curl->get('http://filgsoal...')
+#1 /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Dom.php(129): PHPHtmlParser\Dom->loadFromUrl('http://filgsoal...', Array)
+#2 /home/husskofk/public_html/findline/functions.php(24): PHPHtmlParser\Dom->load('http://filgsoal...')
+#3 {main}
+  thrown in /home/husskofk/public_html/findline/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Curl.php on line 36
+[07-Oct-2017 06:03:10 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/husskofk/public_html/browse-and-download-website-assets/vendor/paquettg/php-html-parser/src/PHPHtmlParser/Content.php on line 507
